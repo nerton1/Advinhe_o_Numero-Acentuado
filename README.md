@@ -40,10 +40,13 @@ O TIMER (cronometro) funciona com 16 Flip-Flops tipo D, nos quais a cada 4 deles
 
 ### Core
 ![core_v8](fotos/core_v8)
-![core_placar](fotos/core_placar)
-![core_input-logic](fotos/core_input-logic)
-
 No CORE é onde o jogo acontece. Nele é possível ver o INPUT_LOGIC que receberá os chutes dos jogadores e somará os mesmos, com a ajuda do INPUT_LOGIC_2 e do SOMADOR, o GERADOR DE NÚMEROS que dará os números a serem chutados, o COMPARADOR que irá comparar os números chutados com o número gerado e o CONTADOR, que irá mostrar quantos pontos cada jogador fez e quem ganhou. Além disso também é possível ver o sistema de mudança de relógio quando se passa de um jogador ao outro.
+
+![core_input-logic](fotos/core_input-logic)
+Circuito input_logic, responsável por guardar os chutes e passar para o display.
+
+![core_placar](fotos/core_placar)
+Circuito placar, capaz de guardar contagens até 15.
 
 ## Utilização
 
