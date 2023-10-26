@@ -71,6 +71,7 @@ Usar a interface do main para interagir com o sistema e jogar.
 Timer- Thiago e Luana.
 
 Core- Thiago e Luana.
+
 Thiago 50%
 Luana 50%
 
