@@ -25,7 +25,7 @@ O "Guess the Number" nesta versão é cativante pela sua natureza rápida e desa
 ## Secções
 
 ### Main
-[Panorama](/fotos/panorama)
+[Panorama](/fotos/panoram.jpg)
 
 ### Timer
 
