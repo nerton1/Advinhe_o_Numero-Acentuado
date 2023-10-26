@@ -43,8 +43,9 @@ No CORE é onde o jogo acontece. Nele é possível ver o INPUT_LOGIC que receber
 ![core_v8](fotos/core_v8)
 <hr>
 Circuito input_logic, responsável por guardar os chutes e passar para o display.
-![core_input-logic](fotos/core_input-logic)
 <hr>
+![core_input-logic](fotos/core_input-logic)
+
 Circuito placar, capaz de guardar contagens até 15.
 ![core_placar](fotos/core_placar)
 
