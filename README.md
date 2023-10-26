@@ -75,3 +75,7 @@ git clone https://github.com/nerton1/Advinhe_o_Numero-Acentuado.git
 cd Advinhe_o_Numero-Acentuado
 
 
+## Contribuições
+
+Timer- Luana e Thiago.
+Core- Thiago e Luana.
