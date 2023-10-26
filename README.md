@@ -76,9 +76,7 @@ cd Advinhe_o_Numero-Acentuado
 
 
 
-
-
-
+.
 
 ## Contribuições
 
