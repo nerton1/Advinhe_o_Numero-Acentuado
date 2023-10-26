@@ -29,20 +29,20 @@ Os jogadores determinam o tempo do jogo no cronômetro e pressionam os botões C
 ## Seções do Circuito
 
 ### Main
-![Panorama](caminho/para/a/imagem.jpg)
+![Panorama](fotos/panorama.jpg)
 Aqui está o jogo junto com as caixas dos sistemas CORE e TIMER.
 
 ### Timer
 O TIMER (cronômetro) utiliza 16 Flip-Flops tipo D para representar unidades, dezenas de segundos e minutos. Multiplexadores auxiliam no pulso do clock nos Flip-Flops.
 
-[Tabela Verdade do Contador de Dezenas](fotos/cont_d)
-[Tabela Verdade do Contador de Unidades](fotos/cont_u)
+![Tabela Verdade do Contador de Dezenas](fotos/cont_d)
+![Tabela Verdade do Contador de Unidades](fotos/cont_u)
 
 ### Core
 O CORE é onde o jogo acontece, com INPUT_LOGIC para receber chutes, GERADOR DE NÚMEROS, COMPARADOR e CONTADOR para pontuação. Inclui também um sistema de mudança de relógio ao trocar de jogador.
 
-[Circuito Input_Logic](fotos/core_input-logic)
-[Circuito Placar](fotos/core_placar)
+![Circuito Input_Logic](fotos/core_input-logic)
+![Circuito Placar](fotos/core_placar)
 
 ## Utilização
 
