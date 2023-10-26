@@ -26,7 +26,8 @@ Funcionamento do jogo:
 Os jogadores deverão determinar o tempo do jogo no cronómetro e apertar os botoes COMEÇAR E SELECT respectivamente. Apos isto o JOGADOR A deverá dar o seu primeiro palpite para a coordenada X, apertar os botões CHUTAR e SWAP_A respectivamente, e dar o seu palpite para a coordenada Y apertando por fim os botões CONFIRMAR, para confirmar seu chute, ALTERNAR JOGADOR, para trocar de jogador, e STOP, para começar o tempo do JOGADOR B, que deverá realizar os mesmos passos do JOGADOR A. Ganha quem fizer 15 pontos primeiro ou quem tiver mais pontos quando o tempo acabar.
 
 ## Seções
-
+Cronometro:
+O cronometro funciona com 8 Flip-Flop tipo D
 ### Main
 ![Panorama](fotos/panorama.jpg)
 
