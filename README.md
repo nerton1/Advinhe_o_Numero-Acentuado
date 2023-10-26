@@ -66,6 +66,10 @@ Circuito input_logic, responsável por guardar os chutes e passar para o display
 
 Usar a interface do main para interagir com o sistema e jogar.
 
+## Contribuições
+
+Timer- Thiago e Luana.
+Core- Thiago e Luana.
 ## Instalação
 
 
@@ -76,7 +80,3 @@ cd Advinhe_o_Numero-Acentuado
 
 
 
-## Contribuições
-
-Timer- Thiago e Luana.
-Core- Thiago e Luana.
