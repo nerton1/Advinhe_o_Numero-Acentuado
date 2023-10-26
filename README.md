@@ -31,6 +31,6 @@ O "Guess the Number" nesta versão é cativante pela sua natureza rápida e desa
 
 ```bash
 # Comando de Instalação 
-git clone https://github.com/seunome/projeto-circuitos-digitais.git
-cd projeto-circuitos-digitais
-# Comandos adicionais de configuração
+git clone https://github.com/nerton1/Advinhe_o_Numero-Acentuado.git
+cd Advinhe_o_Numero-Acentuado
+
