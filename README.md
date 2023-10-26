@@ -31,8 +31,7 @@ Os jogadores deverão determinar o tempo do jogo no cronómetro e apertar os bot
 ![Panorama](fotos/panorama.jpg)
 
 ### Timer
-Cronometro:
-O cronometro funciona com 8 Flip-Flop tipo D
+O TIMER (cronometro) funciona com 16 Flip-Flops tipo D.
 ### Core
 
 
