@@ -1,4 +1,4 @@
-# Circuistos Digitais - Trabalho
+# Circuitos Digitais - Trabalho
 
 Entrega do trabalho de Circuitos Digitais realizado pela dupla Thiago Nerton e Luana Teles.
 
