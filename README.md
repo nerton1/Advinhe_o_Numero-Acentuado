@@ -76,3 +76,7 @@ cd Advinhe_o_Numero-Acentuado
 
 
 
+## Contribuições
+
+Timer- Thiago e Luana.
+Core- Thiago e Luana.
