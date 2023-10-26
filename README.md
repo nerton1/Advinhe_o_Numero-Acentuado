@@ -35,8 +35,13 @@ Aqui fica o jogo junto com as caixas dos sistemas do CORE e do TIMER.
 ### Timer
 O TIMER (cronometro) funciona com 16 Flip-Flops tipo D, nos quais a cada 4 deles representa as unidades e dezenas de segundos e minutos, ligados a contadores de 9 a 0 e 5 a 0 e comparadores. Junto a isso, também utilizamos multiplexadores para auxiliar quando o pulso do clock deveria entrar nos Flip-Flops.
 ![timer](fotos/timer)
+![cont_d](fotos/cont_d)
+![cont_u](fotos/cont_u)
 
 ### Core
+![core_v8](fotos/core_v8)
+![core_placar](fotos/core_placar)
+![core_input-logic](fotos/core_input-logic)
 
 
 ## Utilização
