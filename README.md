@@ -25,7 +25,7 @@ O "Guess the Number" nesta versão é cativante pela sua natureza rápida e desa
 ## Secções
 
 ### Main
-[Panorama](/Advinhe_o_Numero-Acentuado/fotos/panorama)
+[Panorama](/fotos/panorama)
 
 ### Timer
 
