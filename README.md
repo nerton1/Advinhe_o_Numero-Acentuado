@@ -69,7 +69,9 @@ Usar a interface do main para interagir com o sistema e jogar.
 ## Contribuições
 
 Timer- Thiago e Luana.
+
 Core- Thiago e Luana.
+
 ## Instalação
 
 
