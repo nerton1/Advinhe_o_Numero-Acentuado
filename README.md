@@ -22,6 +22,15 @@ Objetivo:
 Acertar o número secreto dentro de um intervalo específico, tudo isso em uma experiência que pode ser concluída em até 60 minutos.
 O "Guess the Number" nesta versão é cativante pela sua natureza rápida e desafiadora. Oferece uma experiência intensa e gratificante, permitindo que os jogadores testem suas habilidades de dedução numérica em um curto espaço de tempo, tornando-o ideal para uma experiência de jogo envolvente e eficiente.
 
+## Secções
+
+### Main
+
+### Timer
+
+### Core
+
+
 ## Utilização
 
 
