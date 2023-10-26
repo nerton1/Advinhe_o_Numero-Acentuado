@@ -21,6 +21,8 @@ O "Guess the Number" com uma limitação de 15 pontos e um tempo máximo de 60 m
 Objetivo:
 Acertar o número secreto dentro de um intervalo específico, tudo isso em uma experiência que pode ser concluída em até 60 minutos.
 O "Guess the Number" nesta versão é cativante pela sua natureza rápida e desafiadora. Oferece uma experiência intensa e gratificante, permitindo que os jogadores testem suas habilidades de dedução numérica em um curto espaço de tempo, tornando-o ideal para uma experiência de jogo envolvente e eficiente.
+Funcionamento do jogo:
+Os jogadores deverão determinar o tempo do jogo no cronómetro e apertar os botoes COMEÇAR E SELECT respectivamente. Apos isto o JOGADOR A deverá dar o seu primeiro palpite para a coordenada X, apertar os botões CHUTAR e SWAP_A respectivamente, e dar o seu palpite para a coordenada Y apertando por fim os botões CONFIRMAR, para confirmar seu chute, ALTERNAR JOGADOR, para trocar de jogador, e STOP, para começar o tempo do JOGADOR B, que deverá realizar os mesmos passos do JOGADOR A. Ganha quem fizer 15 pontos primeiro ou quem tiver mais pontos quando o tempo acabar.
 
 ## Seções
 
