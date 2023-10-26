@@ -40,11 +40,11 @@ O TIMER (cronometro) funciona com 16 Flip-Flops tipo D, nos quais a cada 4 deles
 ![timer](fotos/timer)
 
 
-Tabela verdade do contador de dezenas.[^1]
+[^1]: Tabela verdade do contador de dezenas.
 
 ![cont_d](fotos/cont_d)
 
-Tabela verdade do contador de unidades.[^1]
+[^1]: Tabela verdade do contador de unidades.
 
 ![cont_u](fotos/cont_u)
 
@@ -53,11 +53,11 @@ No CORE é onde o jogo acontece. Nele é possível ver o INPUT_LOGIC que receber
 
 ![core_v8](fotos/core_v8)
 
-Circuito input_logic, responsável por guardar os chutes e passar para o display.[^1]
+[^1]: Circuito input_logic, responsável por guardar os chutes e passar para o display.
 
 ![core_input-logic](fotos/core_input-logic)
 
-Circuito placar, capaz de guardar contagens até 15.[^1]
+[^1]: Circuito placar, capaz de guardar contagens até 15.
 
 ![core_placar](fotos/core_placar)
 
